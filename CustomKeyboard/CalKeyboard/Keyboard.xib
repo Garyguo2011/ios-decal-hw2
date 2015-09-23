@@ -27,10 +27,6 @@
                     <rect key="frame" x="99" y="76" width="44" height="30"/>
                     <state key="normal" title="Phone"/>
                 </button>
-                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gRt-12-JcF">
-                    <rect key="frame" x="182" y="135" width="32" height="30"/>
-                    <state key="normal" title="Next"/>
-                </button>
                 <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="feu-tV-ltt">
                     <rect key="frame" x="99" y="107" width="38" height="30"/>
                     <state key="normal" title="Emoji"/>
@@ -42,6 +38,10 @@
                 <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="e6w-Zx-sW1">
                     <rect key="frame" x="244" y="47" width="45" height="30"/>
                     <state key="normal" title="Delete"/>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gRt-12-JcF">
+                    <rect key="frame" x="171" y="134" width="32" height="30"/>
+                    <state key="normal" title="Next"/>
                 </button>
             </subviews>
             <nil key="simulatedStatusBarMetrics"/>
